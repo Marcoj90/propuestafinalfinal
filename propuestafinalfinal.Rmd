@@ -1,5 +1,5 @@
 ---
-title: "propuestafinalfinal"
+title: "Propuesta de Investigación"
 author: "Marco Javier Peñaloza Pérez"
 date: "2023-04-25"
 output: html_document
@@ -9,9 +9,15 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-**Título:** Análisis de la evolución del rendimiento académico de los estudiantes de una institución educativa a lo largo del tiempo.
+# **Título:** 
 
-**Objetivos:**
+Análisis de la evolución del rendimiento académico de los estudiantes de una institución educativa a lo largo del tiempo.
+
+### **Justificación**
+
+La propuesta de análisis de series de tiempo en educación es importante debido a que permite obtener información valiosa para la toma de decisiones y para la investigación educativa, lo que contribuye al mejoramiento del rendimiento académico de los estudiantes.
+
+### **Objetivos:**
 
 1. Identificar patrones y tendencias en el desempeño académico de los estudiantes de una institución educativa.
 
@@ -19,7 +25,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 3. Proporcionar recomendaciones para mejorar el desempeño académico de los estudiantes.
 
-**Metodología:**
+### **Metodología:**
 
 **Recopilación de datos:** se recolectará información sobre el rendimiento académico de los estudiantes de la institución educativa en un periodo de tiempo determinado (por ejemplo, los últimos 10 años).
 
@@ -31,10 +37,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 **Propuestas de mejora:** se propondrán recomendaciones para mejorar el desempeño académico de los estudiantes, basadas en los resultados obtenidos en el análisis exploratorio de datos y el modelado de series de tiempo.
 
-**Conclusiones:**
+### **Conclusiones:**
 
 Se presentarán las conclusiones obtenidas a partir del análisis de los datos y se discutirán las implicaciones de los resultados para la toma de decisiones en la institución educativa. También se destacarán las limitaciones y posibles mejoras del estudio para futuras investigaciones.
 
-**Referencias bibliográficas**
+### **Referencias Bibliográficas**
 
 1. García, M., & Rodríguez, A. (2020). Análisis de series de tiempo en la evolución del rendimiento académico de los estudiantes. Revista de Investigación en Educación, 18(2), 37-50. doi: 10.1023/j.2044-8341.2020.00187.x
+
+2. Pérez, J. (2019). Métodos estadísticos aplicados a la investigación educativa. Madrid, España: Editorial Pirámide.
