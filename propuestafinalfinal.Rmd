@@ -1,0 +1,36 @@
+---
+title: "propuestafinalfinal"
+author: "Marco Javier Peñaloza Pérez"
+date: "2023-04-25"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+**Título:** Análisis de la evolución del rendimiento académico de los estudiantes de una institución educativa a lo largo del tiempo.
+
+**Objetivos:**
+
+1. Identificar patrones y tendencias en el desempeño académico de los estudiantes de una institución educativa.
+
+2. Evaluar la eficacia de las políticas educativas implementadas en la institución a lo largo del tiempo.
+
+3. Proporcionar recomendaciones para mejorar el desempeño académico de los estudiantes.
+
+**Metodología:**
+
+**Recopilación de datos:** se recolectará información sobre el rendimiento académico de los estudiantes de la institución educativa en un periodo de tiempo determinado (por ejemplo, los últimos 10 años).
+
+**Análisis exploratorio de datos:** se llevará a cabo un análisis exploratorio de los datos para identificar patrones y tendencias en el rendimiento académico de los estudiantes a lo largo del tiempo.
+
+**Modelado de series de tiempo:** se utilizarán técnicas de modelado de series de tiempo para analizar el comportamiento del rendimiento académico de los estudiantes a lo largo del tiempo y predecir su evolución futura.
+
+**Evaluación de políticas educativas:** se evaluará la eficacia de las políticas educativas implementadas en la institución educativa a lo largo del tiempo mediante el análisis de los resultados obtenidos en el modelado de series de tiempo.
+
+**Propuestas de mejora:** se propondrán recomendaciones para mejorar el desempeño académico de los estudiantes, basadas en los resultados obtenidos en el análisis exploratorio de datos y el modelado de series de tiempo.
+
+**Conclusiones:**
+
+Se presentarán las conclusiones obtenidas a partir del análisis de los datos y se discutirán las implicaciones de los resultados para la toma de decisiones en la institución educativa. También se destacarán las limitaciones y posibles mejoras del estudio para futuras investigaciones.
