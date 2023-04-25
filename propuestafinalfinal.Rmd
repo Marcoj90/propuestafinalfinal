@@ -34,3 +34,7 @@ knitr::opts_chunk$set(echo = TRUE)
 **Conclusiones:**
 
 Se presentarán las conclusiones obtenidas a partir del análisis de los datos y se discutirán las implicaciones de los resultados para la toma de decisiones en la institución educativa. También se destacarán las limitaciones y posibles mejoras del estudio para futuras investigaciones.
+
+**Referencias bibliográficas**
+
+1. García, M., & Rodríguez, A. (2020). Análisis de series de tiempo en la evolución del rendimiento académico de los estudiantes. Revista de Investigación en Educación, 18(2), 37-50. doi: 10.1023/j.2044-8341.2020.00187.x
